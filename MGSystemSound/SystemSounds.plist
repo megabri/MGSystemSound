@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1000</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1000</integer>
+		<key>File</key>
+		<string>new-mail.caf</string>
+		<key>Description</key>
+		<string>Mail Ricevuta</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1001</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1001</integer>
+		<key>File</key>
+		<string>mail-sent.caf</string>
+		<key>Description</key>
+		<string>Mail Inviata</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1002</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1002</integer>
+		<key>File</key>
+		<string>Voicemail.caf</string>
+		<key>Description</key>
+		<string>Voicemail Ricevuta</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1003</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1003</integer>
+		<key>File</key>
+		<string>ReceivedMessage.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1004</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1004</integer>
+		<key>File</key>
+		<string>SentMessage.caf</string>
+		<key>Description</key>
+		<string>SMS Spedito</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1005</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1005</integer>
+		<key>File</key>
+		<string>alarm.caf</string>
+		<key>Description</key>
+		<string>Allarme Calendario</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1006</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1006</integer>
+		<key>File</key>
+		<string>low_power.caf</string>
+		<key>Description</key>
+		<string>Batteria Scarica</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1007</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1007</integer>
+		<key>File</key>
+		<string>sms-received1.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1008</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1008</integer>
+		<key>File</key>
+		<string>sms-received2.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1009</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1009</integer>
+		<key>File</key>
+		<string>sms-received3.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1010</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1010</integer>
+		<key>File</key>
+		<string>sms-received4.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1011</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1011</integer>
+		<key>File</key>
+		<string></string>
+		<key>Description</key>
+		<string>Vibrazione SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1012</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1012</integer>
+		<key>File</key>
+		<string>sms-received1.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1013</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1013</integer>
+		<key>File</key>
+		<string>sms-received5.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1014</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1014</integer>
+		<key>File</key>
+		<string>sms-received6.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1015</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1015</integer>
+		<key>File</key>
+		<string>Voicemail.caf</string>
+		<key>Description</key>
+		<string>Voicemail Ricevuta</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1016</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1016</integer>
+		<key>File</key>
+		<string>tweet_sent.caf</string>
+		<key>Description</key>
+		<string>Tweet Inviato</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1020</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1020</integer>
+		<key>File</key>
+		<string>Anticipate.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1021</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1021</integer>
+		<key>File</key>
+		<string>Bloom.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1022</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1022</integer>
+		<key>File</key>
+		<string>Calypso.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1023</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1023</integer>
+		<key>File</key>
+		<string>Choo_Choo.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1024</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1024</integer>
+		<key>File</key>
+		<string>Descent.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1025</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1025</integer>
+		<key>File</key>
+		<string>Fanfare.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1026</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1026</integer>
+		<key>File</key>
+		<string>Ladder.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1027</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1027</integer>
+		<key>File</key>
+		<string>Minuet.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1028</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1028</integer>
+		<key>File</key>
+		<string>News_Flash.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1029</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1029</integer>
+		<key>File</key>
+		<string>Noir.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1030</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1030</integer>
+		<key>File</key>
+		<string>Sherwood_Forest.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1031</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1031</integer>
+		<key>File</key>
+		<string>Spell.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1032</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1032</integer>
+		<key>File</key>
+		<string>Suspense.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1033</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1033</integer>
+		<key>File</key>
+		<string>Telegraph.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1034</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1034</integer>
+		<key>File</key>
+		<string>Tiptoes.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1035</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1035</integer>
+		<key>File</key>
+		<string>Typewriters.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1036</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1036</integer>
+		<key>File</key>
+		<string>Update.caf</string>
+		<key>Description</key>
+		<string>SMS Ricevuto</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1050</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1050</integer>
+		<key>File</key>
+		<string>ussd.caf</string>
+		<key>Description</key>
+		<string>SIMToolkitTone</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1051</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1051</integer>
+		<key>File</key>
+		<string>SIMToolkitCallDropped.caf</string>
+		<key>Description</key>
+		<string>SIMToolkitTone</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1052</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1052</integer>
+		<key>File</key>
+		<string>SIMToolkitGeneralBeep.caf</string>
+		<key>Description</key>
+		<string>SIMToolkitTone</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1053</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1053</integer>
+		<key>File</key>
+		<string>SIMToolkitNegativeACK.caf</string>
+		<key>Description</key>
+		<string>SIMToolkitTone</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1054</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1054</integer>
+		<key>File</key>
+		<string>SIMToolkitPositiveACK.caf</string>
+		<key>Description</key>
+		<string>SIMToolkitTone</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1055</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1055</integer>
+		<key>File</key>
+		<string>SIMToolkitSMS.caf</string>
+		<key>Description</key>
+		<string>SIMToolkitTone</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1057</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1057</integer>
+		<key>File</key>
+		<string>Tink.caf</string>
+		<key>Description</key>
+		<string>Suono tastierino codice PIN</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1070</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1070</integer>
+		<key>File</key>
+		<string>ct-busy.caf</string>
+		<key>Description</key>
+		<string>Suono di chiamata</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1071</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1071</integer>
+		<key>File</key>
+		<string>ct-congestion.caf</string>
+		<key>Description</key>
+		<string>Suono di chiamata</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1072</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1072</integer>
+		<key>File</key>
+		<string>ct-path-ack.caf</string>
+		<key>Description</key>
+		<string>Suono di chiamata</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1073</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1073</integer>
+		<key>File</key>
+		<string>ct-error.caf</string>
+		<key>Description</key>
+		<string>Suono di chiamata</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1074</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1074</integer>
+		<key>File</key>
+		<string>ct-call-waiting.caf</string>
+		<key>Description</key>
+		<string>Suono di chiamata</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1075</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1075</integer>
+		<key>File</key>
+		<string>ct-keytone2.caf</string>
+		<key>Description</key>
+		<string>Suono di chiamata</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1100</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1100</integer>
+		<key>File</key>
+		<string>lock.caf</string>
+		<key>Description</key>
+		<string>Suono “blocca schermo”</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1101</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1101</integer>
+		<key>File</key>
+		<string>unlock.caf</string>
+		<key>Description</key>
+		<string>Suono “sblocca schermo”</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1103</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1103</integer>
+		<key>File</key>
+		<string>Tink.caf</string>
+		<key>Description</key>
+		<string>KeyPressed</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1104</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1104</integer>
+		<key>File</key>
+		<string>Tock.caf</string>
+		<key>Description</key>
+		<string>Suono tastiera</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1105</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1105</integer>
+		<key>File</key>
+		<string>Tock.caf</string>
+		<key>Description</key>
+		<string>Suono tastiera</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1106</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1106</integer>
+		<key>File</key>
+		<string>beep-beep.caf</string>
+		<key>Description</key>
+		<string>Conessione ricarica</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1107</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1107</integer>
+		<key>File</key>
+		<string>RingerChanged.caf</string>
+		<key>Description</key>
+		<string>Interruttore suoneria</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1108</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1108</integer>
+		<key>File</key>
+		<string>photoShutter.caf</string>
+		<key>Description</key>
+		<string>Scatto fotografica</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1109</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1109</integer>
+		<key>File</key>
+		<string>shake.caf</string>
+		<key>Description</key>
+		<string>“ShakeToShuffle”</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1110</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1110</integer>
+		<key>File</key>
+		<string>jbl_begin.caf</string>
+		<key>Description</key>
+		<string>Inizio JBL</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1111</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1111</integer>
+		<key>File</key>
+		<string>jbl_confirm.caf</string>
+		<key>Description</key>
+		<string>Conferma JBL</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1112</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1112</integer>
+		<key>File</key>
+		<string>jbl_cancel.caf</string>
+		<key>Description</key>
+		<string>Cancellazione JBL</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1114</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1114</integer>
+		<key>File</key>
+		<string>end_record.caf</string>
+		<key>Description</key>
+		<string>Fine Registrazione</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1115</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1115</integer>
+		<key>File</key>
+		<string>jbl_ambiguous.caf</string>
+		<key>Description</key>
+		<string>JBL Ambiguo</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1116</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1116</integer>
+		<key>File</key>
+		<string>jbl_no_match.caf</string>
+		<key>Description</key>
+		<string>JBL senza corrispondenza</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1117</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1117</integer>
+		<key>File</key>
+		<string>begin_video_record.caf</string>
+		<key>Description</key>
+		<string>Inizio registrazione video</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1118</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1118</integer>
+		<key>File</key>
+		<string>end_video_record.caf</string>
+		<key>Description</key>
+		<string>Fine registrazione Video</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.0</string>
+	</dict>
+	<key>1150</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1150</integer>
+		<key>File</key>
+		<string>vc~invitation-accepted.caf</string>
+		<key>Description</key>
+		<string>VC Invito accettato</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1151</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1151</integer>
+		<key>File</key>
+		<string>vc~ringing.caf</string>
+		<key>Description</key>
+		<string>VC Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1152</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1152</integer>
+		<key>File</key>
+		<string>vc~ended.caf</string>
+		<key>Description</key>
+		<string>VC Fine</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.0</string>
+	</dict>
+	<key>1153</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1153</integer>
+		<key>File</key>
+		<string>ct-call-waiting.caf</string>
+		<key>Description</key>
+		<string>VC Chiamata in attesa</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.1</string>
+	</dict>
+	<key>1154</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1154</integer>
+		<key>File</key>
+		<string>vc~ringing.caf</string>
+		<key>Description</key>
+		<string>VC Chiamata aggiornata</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.1</string>
+	</dict>
+	<key>1200</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1200</integer>
+		<key>File</key>
+		<string>dtmf-0.caf</string>
+		<key>Description</key>
+		<string>DTFM 0</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1201</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1201</integer>
+		<key>File</key>
+		<string>dtmf-1.caf</string>
+		<key>Description</key>
+		<string>DTFM 1</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1202</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1202</integer>
+		<key>File</key>
+		<string>dtmf-2.caf</string>
+		<key>Description</key>
+		<string>DTFM 2</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1203</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1203</integer>
+		<key>File</key>
+		<string>dtmf-3.caf</string>
+		<key>Description</key>
+		<string>DTFM 3</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1204</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1204</integer>
+		<key>File</key>
+		<string>dtmf-4.caf</string>
+		<key>Description</key>
+		<string>DTFM 4</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1205</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1205</integer>
+		<key>File</key>
+		<string>dtmf-5.caf</string>
+		<key>Description</key>
+		<string>DTFM 5</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1206</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1206</integer>
+		<key>File</key>
+		<string>dtmf-6.caf</string>
+		<key>Description</key>
+		<string>DTFM 6</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1207</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1207</integer>
+		<key>File</key>
+		<string>dtmf-7.caf</string>
+		<key>Description</key>
+		<string>DTFM 7</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1208</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1208</integer>
+		<key>File</key>
+		<string>dtmf-8.caf</string>
+		<key>Description</key>
+		<string>DTFM 8</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1209</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1209</integer>
+		<key>File</key>
+		<string>dtmf-9.caf</string>
+		<key>Description</key>
+		<string>DTFM 9</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1210</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1210</integer>
+		<key>File</key>
+		<string>dtmf-star.caf</string>
+		<key>Description</key>
+		<string>DTFM asterisco</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1211</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1211</integer>
+		<key>File</key>
+		<string>dtmf-pound.caf</string>
+		<key>Description</key>
+		<string>DTFM cancelletto</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1254</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1254</integer>
+		<key>File</key>
+		<string>long_low_short_high.caf</string>
+		<key>Description</key>
+		<string>Inizio chiamata da auricolari</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1255</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1255</integer>
+		<key>File</key>
+		<string>short_double_high.caf</string>
+		<key>Description</key>
+		<string>Redial da auricolari</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1256</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1256</integer>
+		<key>File</key>
+		<string>short_low_high.caf</string>
+		<key>Description</key>
+		<string>Risposta chiamata da auricolari</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1257</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1257</integer>
+		<key>File</key>
+		<string>short_double_low.caf</string>
+		<key>Description</key>
+		<string>Fine chiamata da da auricolari</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1258</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1258</integer>
+		<key>File</key>
+		<string>short_double_low.caf</string>
+		<key>Description</key>
+		<string>Chiamata in attesa da auricolari</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1259</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1259</integer>
+		<key>File</key>
+		<string>middle_9_short_double_low.caf</string>
+		<key>Description</key>
+		<string>Headset_TransitionEnd</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1300</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1300</integer>
+		<key>File</key>
+		<string>Voicemail.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1301</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1301</integer>
+		<key>File</key>
+		<string>ReceivedMessage.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1302</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1302</integer>
+		<key>File</key>
+		<string>new-mail.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1303</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1303</integer>
+		<key>File</key>
+		<string>mail-sent.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1304</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1304</integer>
+		<key>File</key>
+		<string>alarm.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1305</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1305</integer>
+		<key>File</key>
+		<string>lock.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1306</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1306</integer>
+		<key>File</key>
+		<string>Tock.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 3.2.</string>
+	</dict>
+	<key>1307</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1307</integer>
+		<key>File</key>
+		<string>sms-received1.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1308</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1308</integer>
+		<key>File</key>
+		<string>sms-received2.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1309</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1309</integer>
+		<key>File</key>
+		<string>sms-received3.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1310</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1310</integer>
+		<key>File</key>
+		<string>sms-received4.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1311</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1311</integer>
+		<key>File</key>
+		<string></string>
+		<key>Description</key>
+		<string>Vibrazione Ricezione SMS</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1313</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1313</integer>
+		<key>File</key>
+		<string>sms-received5.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1314</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1314</integer>
+		<key>File</key>
+		<string>sms-received6.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1315</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1315</integer>
+		<key>File</key>
+		<string>Voicemail.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 2.1</string>
+	</dict>
+	<key>1320</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1320</integer>
+		<key>File</key>
+		<string>Anticipate.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1321</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1321</integer>
+		<key>File</key>
+		<string>Bloom.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1322</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1154</integer>
+		<key>File</key>
+		<string>Calypso.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1323</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1323</integer>
+		<key>File</key>
+		<string>Choo_Choo.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1324</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1324</integer>
+		<key>File</key>
+		<string>Descent.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1325</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1325</integer>
+		<key>File</key>
+		<string>Fanfare.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1326</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1326</integer>
+		<key>File</key>
+		<string>Ladder.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1327</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1327</integer>
+		<key>File</key>
+		<string>Minuet.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1328</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1328</integer>
+		<key>File</key>
+		<string>News_Flash.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1329</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1329</integer>
+		<key>File</key>
+		<string>Noir.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1330</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1330</integer>
+		<key>File</key>
+		<string>Sherwood_Forest.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1331</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1331</integer>
+		<key>File</key>
+		<string>Spell.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1332</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1332</integer>
+		<key>File</key>
+		<string>Suspense.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1333</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1333</integer>
+		<key>File</key>
+		<string>Telegraph.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1334</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1334</integer>
+		<key>File</key>
+		<string>Tiptoes.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1335</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1335</integer>
+		<key>File</key>
+		<string>Typewriters.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1336</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1336</integer>
+		<key>File</key>
+		<string>Update.caf</string>
+		<key>Description</key>
+		<string>Preview Suono</string>
+		<key>Compatibility</key>
+		<string>Disponibile da iOS 4.2</string>
+	</dict>
+	<key>1350</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1350</integer>
+		<key>File</key>
+		<string></string>
+		<key>Description</key>
+		<string>Vibrazione Suoneria</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+	<key>1351</key>
+	<dict>
+		<key>SoundID</key>
+		<integer>1351</integer>
+		<key>File</key>
+		<string></string>
+		<key>Description</key>
+		<string>Vibrazione Silenzioso</string>
+		<key>Compatibility</key>
+		<string>Tutte le versioni</string>
+	</dict>
+</dict>
+</plist>

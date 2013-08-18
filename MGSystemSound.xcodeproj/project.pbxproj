@@ -1,0 +1,347 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		A40C038917C0C4D600E887FE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A40C038817C0C4D600E887FE /* UIKit.framework */; };
+		A40C038B17C0C4D600E887FE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A40C038A17C0C4D600E887FE /* Foundation.framework */; };
+		A40C038D17C0C4D600E887FE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A40C038C17C0C4D600E887FE /* CoreGraphics.framework */; };
+		A40C039317C0C4D600E887FE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A40C039117C0C4D600E887FE /* InfoPlist.strings */; };
+		A40C039517C0C4D600E887FE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A40C039417C0C4D600E887FE /* main.m */; };
+		A40C039917C0C4D600E887FE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A40C039817C0C4D600E887FE /* AppDelegate.m */; };
+		A40C039B17C0C4D600E887FE /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = A40C039A17C0C4D600E887FE /* Default.png */; };
+		A40C039D17C0C4D600E887FE /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A40C039C17C0C4D600E887FE /* Default@2x.png */; };
+		A40C039F17C0C4D600E887FE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A40C039E17C0C4D600E887FE /* Default-568h@2x.png */; };
+		A40C03A217C0C4D600E887FE /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A40C03A117C0C4D600E887FE /* FirstViewController.m */; };
+		A40C03A417C0C4D600E887FE /* first.png in Resources */ = {isa = PBXBuildFile; fileRef = A40C03A317C0C4D600E887FE /* first.png */; };
+		A40C03A617C0C4D600E887FE /* first@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A40C03A517C0C4D600E887FE /* first@2x.png */; };
+		A40C03A917C0C4D600E887FE /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A40C03A817C0C4D600E887FE /* SecondViewController.m */; };
+		A40C03AB17C0C4D600E887FE /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = A40C03AA17C0C4D600E887FE /* second.png */; };
+		A40C03AD17C0C4D600E887FE /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A40C03AC17C0C4D600E887FE /* second@2x.png */; };
+		A40C03B017C0C4D600E887FE /* FirstViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A40C03AE17C0C4D600E887FE /* FirstViewController.xib */; };
+		A40C03B317C0C4D600E887FE /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A40C03B117C0C4D600E887FE /* SecondViewController.xib */; };
+		A40C03BA17C0C52700E887FE /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A40C03B917C0C52700E887FE /* AudioToolbox.framework */; };
+		A40C03BC17C0C5F600E887FE /* SystemSounds.plist in Resources */ = {isa = PBXBuildFile; fileRef = A40C03BB17C0C5F600E887FE /* SystemSounds.plist */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		A40C038517C0C4D600E887FE /* MGSystemSound.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MGSystemSound.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A40C038817C0C4D600E887FE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		A40C038A17C0C4D600E887FE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		A40C038C17C0C4D600E887FE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		A40C039017C0C4D600E887FE /* MGSystemSound-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MGSystemSound-Info.plist"; sourceTree = "<group>"; };
+		A40C039217C0C4D600E887FE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		A40C039417C0C4D600E887FE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A40C039617C0C4D600E887FE /* MGSystemSound-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MGSystemSound-Prefix.pch"; sourceTree = "<group>"; };
+		A40C039717C0C4D600E887FE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		A40C039817C0C4D600E887FE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		A40C039A17C0C4D600E887FE /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		A40C039C17C0C4D600E887FE /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		A40C039E17C0C4D600E887FE /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		A40C03A017C0C4D600E887FE /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		A40C03A117C0C4D600E887FE /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		A40C03A317C0C4D600E887FE /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
+		A40C03A517C0C4D600E887FE /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
+		A40C03A717C0C4D600E887FE /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		A40C03A817C0C4D600E887FE /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		A40C03AA17C0C4D600E887FE /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
+		A40C03AC17C0C4D600E887FE /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		A40C03AF17C0C4D600E887FE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FirstViewController.xib; sourceTree = "<group>"; };
+		A40C03B217C0C4D600E887FE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondViewController.xib; sourceTree = "<group>"; };
+		A40C03B917C0C52700E887FE /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		A40C03BB17C0C5F600E887FE /* SystemSounds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SystemSounds.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		A40C038217C0C4D600E887FE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A40C03BA17C0C52700E887FE /* AudioToolbox.framework in Frameworks */,
+				A40C038917C0C4D600E887FE /* UIKit.framework in Frameworks */,
+				A40C038B17C0C4D600E887FE /* Foundation.framework in Frameworks */,
+				A40C038D17C0C4D600E887FE /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		A40C037C17C0C4D600E887FE = {
+			isa = PBXGroup;
+			children = (
+				A40C038E17C0C4D600E887FE /* MGSystemSound */,
+				A40C038717C0C4D600E887FE /* Frameworks */,
+				A40C038617C0C4D600E887FE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		A40C038617C0C4D600E887FE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				A40C038517C0C4D600E887FE /* MGSystemSound.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		A40C038717C0C4D600E887FE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A40C03B917C0C52700E887FE /* AudioToolbox.framework */,
+				A40C038817C0C4D600E887FE /* UIKit.framework */,
+				A40C038A17C0C4D600E887FE /* Foundation.framework */,
+				A40C038C17C0C4D600E887FE /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		A40C038E17C0C4D600E887FE /* MGSystemSound */ = {
+			isa = PBXGroup;
+			children = (
+				A40C039717C0C4D600E887FE /* AppDelegate.h */,
+				A40C039817C0C4D600E887FE /* AppDelegate.m */,
+				A40C03A017C0C4D600E887FE /* FirstViewController.h */,
+				A40C03A117C0C4D600E887FE /* FirstViewController.m */,
+				A40C03A317C0C4D600E887FE /* first.png */,
+				A40C03A517C0C4D600E887FE /* first@2x.png */,
+				A40C03A717C0C4D600E887FE /* SecondViewController.h */,
+				A40C03A817C0C4D600E887FE /* SecondViewController.m */,
+				A40C03AA17C0C4D600E887FE /* second.png */,
+				A40C03AC17C0C4D600E887FE /* second@2x.png */,
+				A40C03AE17C0C4D600E887FE /* FirstViewController.xib */,
+				A40C03B117C0C4D600E887FE /* SecondViewController.xib */,
+				A40C03BB17C0C5F600E887FE /* SystemSounds.plist */,
+				A40C038F17C0C4D600E887FE /* Supporting Files */,
+			);
+			path = MGSystemSound;
+			sourceTree = "<group>";
+		};
+		A40C038F17C0C4D600E887FE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				A40C039017C0C4D600E887FE /* MGSystemSound-Info.plist */,
+				A40C039117C0C4D600E887FE /* InfoPlist.strings */,
+				A40C039417C0C4D600E887FE /* main.m */,
+				A40C039617C0C4D600E887FE /* MGSystemSound-Prefix.pch */,
+				A40C039A17C0C4D600E887FE /* Default.png */,
+				A40C039C17C0C4D600E887FE /* Default@2x.png */,
+				A40C039E17C0C4D600E887FE /* Default-568h@2x.png */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		A40C038417C0C4D600E887FE /* MGSystemSound */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A40C03B617C0C4D600E887FE /* Build configuration list for PBXNativeTarget "MGSystemSound" */;
+			buildPhases = (
+				A40C038117C0C4D600E887FE /* Sources */,
+				A40C038217C0C4D600E887FE /* Frameworks */,
+				A40C038317C0C4D600E887FE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MGSystemSound;
+			productName = MGSystemSound;
+			productReference = A40C038517C0C4D600E887FE /* MGSystemSound.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		A40C037D17C0C4D600E887FE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = "Gabriele Merlonghi";
+			};
+			buildConfigurationList = A40C038017C0C4D600E887FE /* Build configuration list for PBXProject "MGSystemSound" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A40C037C17C0C4D600E887FE;
+			productRefGroup = A40C038617C0C4D600E887FE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				A40C038417C0C4D600E887FE /* MGSystemSound */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		A40C038317C0C4D600E887FE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A40C039317C0C4D600E887FE /* InfoPlist.strings in Resources */,
+				A40C039B17C0C4D600E887FE /* Default.png in Resources */,
+				A40C039D17C0C4D600E887FE /* Default@2x.png in Resources */,
+				A40C039F17C0C4D600E887FE /* Default-568h@2x.png in Resources */,
+				A40C03A417C0C4D600E887FE /* first.png in Resources */,
+				A40C03A617C0C4D600E887FE /* first@2x.png in Resources */,
+				A40C03AB17C0C4D600E887FE /* second.png in Resources */,
+				A40C03AD17C0C4D600E887FE /* second@2x.png in Resources */,
+				A40C03B017C0C4D600E887FE /* FirstViewController.xib in Resources */,
+				A40C03B317C0C4D600E887FE /* SecondViewController.xib in Resources */,
+				A40C03BC17C0C5F600E887FE /* SystemSounds.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		A40C038117C0C4D600E887FE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A40C039517C0C4D600E887FE /* main.m in Sources */,
+				A40C039917C0C4D600E887FE /* AppDelegate.m in Sources */,
+				A40C03A217C0C4D600E887FE /* FirstViewController.m in Sources */,
+				A40C03A917C0C4D600E887FE /* SecondViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		A40C039117C0C4D600E887FE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A40C039217C0C4D600E887FE /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		A40C03AE17C0C4D600E887FE /* FirstViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A40C03AF17C0C4D600E887FE /* en */,
+			);
+			name = FirstViewController.xib;
+			sourceTree = "<group>";
+		};
+		A40C03B117C0C4D600E887FE /* SecondViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				A40C03B217C0C4D600E887FE /* en */,
+			);
+			name = SecondViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		A40C03B417C0C4D600E887FE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		A40C03B517C0C4D600E887FE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A40C03B717C0C4D600E887FE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MGSystemSound/MGSystemSound-Prefix.pch";
+				INFOPLIST_FILE = "MGSystemSound/MGSystemSound-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		A40C03B817C0C4D600E887FE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MGSystemSound/MGSystemSound-Prefix.pch";
+				INFOPLIST_FILE = "MGSystemSound/MGSystemSound-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A40C038017C0C4D600E887FE /* Build configuration list for PBXProject "MGSystemSound" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A40C03B417C0C4D600E887FE /* Debug */,
+				A40C03B517C0C4D600E887FE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A40C03B617C0C4D600E887FE /* Build configuration list for PBXNativeTarget "MGSystemSound" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A40C03B717C0C4D600E887FE /* Debug */,
+				A40C03B817C0C4D600E887FE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A40C037D17C0C4D600E887FE /* Project object */;
+}
