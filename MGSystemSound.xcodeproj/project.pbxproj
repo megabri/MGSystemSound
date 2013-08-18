@@ -26,6 +26,7 @@
 		A40C03B317C0C4D600E887FE /* SecondViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A40C03B117C0C4D600E887FE /* SecondViewController.xib */; };
 		A40C03BA17C0C52700E887FE /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A40C03B917C0C52700E887FE /* AudioToolbox.framework */; };
 		A40C03BC17C0C5F600E887FE /* SystemSounds.plist in Resources */ = {isa = PBXBuildFile; fileRef = A40C03BB17C0C5F600E887FE /* SystemSounds.plist */; };
+		A4B6140617C107F100D849B1 /* MG_tutorial@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = A4B6140517C107F100D849B1 /* MG_tutorial@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +55,7 @@
 		A40C03B217C0C4D600E887FE /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SecondViewController.xib; sourceTree = "<group>"; };
 		A40C03B917C0C52700E887FE /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		A40C03BB17C0C5F600E887FE /* SystemSounds.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SystemSounds.plist; sourceTree = "<group>"; };
+		A4B6140517C107F100D849B1 /* MG_tutorial@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MG_tutorial@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		A40C037C17C0C4D600E887FE = {
 			isa = PBXGroup;
 			children = (
+				A4B6140517C107F100D849B1 /* MG_tutorial@2x.png */,
 				A40C038E17C0C4D600E887FE /* MGSystemSound */,
 				A40C038717C0C4D600E887FE /* Frameworks */,
 				A40C038617C0C4D600E887FE /* Products */,
@@ -196,6 +199,7 @@
 				A40C03B017C0C4D600E887FE /* FirstViewController.xib in Resources */,
 				A40C03B317C0C4D600E887FE /* SecondViewController.xib in Resources */,
 				A40C03BC17C0C5F600E887FE /* SystemSounds.plist in Resources */,
+				A4B6140617C107F100D849B1 /* MG_tutorial@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -340,6 +344,7 @@
 				A40C03B817C0C4D600E887FE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
